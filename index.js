@@ -57,3 +57,4 @@ function removeFirstCat() {
     return cats_temp
 
 }
+
